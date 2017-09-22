@@ -1,9 +1,6 @@
 Body {
   font-family: 'Playfair Display', serif;
 }
-.main{
-  height: 100vh
-}
 .header {
   height: 20%;
   background-color: #F5DFB3;
@@ -17,12 +14,10 @@ Body {
   width: 20%;
   text-align: center;
   background-color: #8FBC8E;
-  height:80%;
+  padding-bottom: 27%;
   margin-right: 3%;
 }
 
-.rightbody .container {
-  /*padding-left: 30px;*/
-  /*height: inherit;*/
-  margin-left: 20px;
+#form1 {
+  width: 10%;
 }
