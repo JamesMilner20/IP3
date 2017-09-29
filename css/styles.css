@@ -10,14 +10,19 @@ Body {
 }
 
 .leftdiv {
-  float: left;
-  width: 20%;
   text-align: center;
   background-color: #8FBC8E;
-  padding-bottom: 27%;
-  margin-right: 3%;
+  height: auto;
 }
 
-#form1 {
-  width: 10%;
+.output {
+  height: 40%;
+  width: 40%;
+  overflow: scroll;
+  position: fixed;
+  border: 1px solid #bbb;
+}
+
+#result {
+  list-style: none;
 }
